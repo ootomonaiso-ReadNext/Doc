@@ -6,3 +6,7 @@ MariaDBにコネクションとる前にこれを起動して戦う
 ```
 pip install flask mariadb sshtunnel
 ```
+
+## 変えるもの
+接続するスキーマのおなまえ
+SSHKeyのファイルパス
